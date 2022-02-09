@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@$",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "@": {
+      "item": "create:copper_sheet"
+    },
+    "$": {
+      "item": "create:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "morevillagers_custom:inventor_table"
+  }
+}
